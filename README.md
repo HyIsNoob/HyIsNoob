@@ -137,5 +137,4 @@
   <h3>✨ Thanks for visiting my profile! ✨</h3>
   <h4>💫 Let's code something amazing together! 💫</h4>
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=HyIsNoob&label=Profile%20Visits&color=ff0000&icon=5&pretty=true" alt="Visitor Count"/>
 </div>
