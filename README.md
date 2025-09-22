@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 **Computer Science Student** at **University of Information Technology, VNU-HCM** (K18)
-- 🎂 **Born:** February 11, 2005 (19 years old)
+- 🎂 **Born:** February 11, 2005
 - 📍 **Location:** Ho Chi Minh City, Vietnam
 - 🎬 **Passion:** Video Editing (Games & Anime)
 - 🎮 **Content Creator** with **5K+ total subscribers** across YouTube channels
