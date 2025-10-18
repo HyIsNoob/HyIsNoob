@@ -14,15 +14,13 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - **Computer Science Student** at **University of Information Technology, VNU-HCM**
-- **Born:** February 11
 - **Location:** Vietnam
 - **Passion:** Video Editing
-- **GitHub Copilot Pro** & **Cursor Pro** user
 - **Alias:** HyIsNoob (used across all platforms)
 
 <br clear="right"/>
