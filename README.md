@@ -18,17 +18,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Computer Science Student** at **University of Information Technology, VNU-HCM** (K18)
-- 🎂 **Born:** February 11, 2005
-- 📍 **Location:** Ho Chi Minh City, Vietnam
-- 🎬 **Passion:** Video Editing (Games & Anime)
-- 🎮 **Content Creator** with **5K+ total subscribers** across YouTube channels
-- 💻 **GitHub Copilot Pro** & **Cursor Pro** user
-- 🌟 **Alias:** HyIsNoob (used across all platforms)
+- **Computer Science Student** at **University of Information Technology, VNU-HCM**
+- **Born:** February 11
+- **Location:** Vietnam
+- **Passion:** Video Editing
+- **GitHub Copilot Pro** & **Cursor Pro** user
+- **Alias:** HyIsNoob (used across all platforms)
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Programming Languages
 <div align="center">
@@ -59,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyIsNoob&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -72,7 +71,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HyIsNoob&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -80,7 +79,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HyIsNoob&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -88,7 +87,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.facebook.com/hyisnoob1102">
@@ -107,16 +106,16 @@
 
 ---
 
-## 💫 Fun Facts
+## Fun Facts
 
 <div align="center">
 
 ```
-🎓 Currently pursuing Computer Science at UIT-VNU HCM
-🎬 Passionate about creating Gaming and Anime content
-🎮 HyIsNoob is my universal gaming alias
-💻 Powered by GitHub Copilot Pro & Cursor Pro
-🌟 Building my coding journey one commit at a time
+Currently pursuing Computer Science at UIT-VNU HCM
+Passionate about creating Gaming and Anime content
+HyIsNoob is my universal gaming alias
+Powered by GitHub Copilot Pro & Cursor Pro
+Building my coding journey one commit at a time
 ```
 
 </div>
