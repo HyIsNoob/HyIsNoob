@@ -4,6 +4,12 @@
 </div>
 
 <div align="center">
+  <a href="https://hyisnoob.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
