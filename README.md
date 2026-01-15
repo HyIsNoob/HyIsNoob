@@ -57,28 +57,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyIsNoob&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyIsNoob&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyIsNoob&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HyIsNoob&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## Contribution Graph
 
@@ -123,7 +101,7 @@ Building my coding journey one commit at a time
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -134,7 +112,7 @@ Building my coding journey one commit at a time
 ---
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <h4>💫 Let's code something amazing together! 💫</h4>
+  <h3>Thanks for visiting my profile!</h3>
+  <h4>Let's code something amazing together!</h4>
   <br>
 </div>
